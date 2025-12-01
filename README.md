@@ -34,9 +34,9 @@ Follow me on GitHub: [github.com/prajcoder](https://github.com/prajcoder)
 ---
 
 ## 📬 Contact Me
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) praj.coder
 
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) praj.coder
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) pratyushraj2005@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Praj.asus2308@gmail.com
 
 ---
 
